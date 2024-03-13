@@ -1,5 +1,4 @@
 import { Box } from "@mui/material";
-import "./App.css";
 import { Header } from "./top-bar/Header";
 import { Article, FeedContainer } from "./feed/FeedContainer";
 import { useEffect, useState } from "react";
